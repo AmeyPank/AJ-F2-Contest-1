@@ -34,7 +34,7 @@ function PrintDeveloperbyForEach() {
 
 function addData() {
   //Write your code here
-  console.log(arr.splice(3,0, '{id:4,name:"susan",age: "20", profession:"intern"}'))
+  console.log(arr.splice(3,0, {id:4,name:"susan",age: "20", profession:"intern"}))
   console.log(arr)
 }
 
